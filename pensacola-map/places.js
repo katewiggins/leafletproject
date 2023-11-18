@@ -1,0 +1,22 @@
+var places = 
+
+[{"city":"Pensacola","college":"Pensacola State College","lat":30.396355,"long":-87.28709,"zoom":16},
+{"city":"Pensacola","college":"University of West Florida","lat":30.549362,"long":-87.218383,"zoom":16},
+{"city":"Tallahassee","college":"Florida State University","lat":30.438224,"long":-84.297452,"zoom":13.82},
+{"city":"Tallahassee","college":"Tallahassee Community College","lat":30.444553,"long":-84.340098,"zoom":16},
+{"city":"Gainesville","college":"University of Florida","lat":29.639096,"long":-82.353175,"zoom":12.45},
+{"city":"Gainesville","college":"Santa Fe College","lat":29.680826,"long":-82.432902,"zoom":16},
+{"city":"Jacksonville","college":"University of North Florida","lat":30.26526,"long":-81.509263,"zoom":null},
+{"city":"Orlando","college":"University of Central Florida","lat":28.601408,"long":-81.201342,"zoom":16},
+{"city":"Tampa","college":"University of South Florida","lat":28.061855,"long":-82.41399,"zoom":13.39},
+{"city":"Tampa","college":"University of Tampa","lat":27.948308,"long":-82.467055,"zoom":14.51},
+{"city":"St. Augustine","college":"Flagler College ","lat":29.892403,"long":-81.314983,"zoom":16},
+{"city":"Coral Gables","college":"University of Miami","lat":25.720481,"long":-80.278451,"zoom":16},
+{"city":"Winter park","college":"Rollins College","lat":28.591865,"long":-81.347342,"zoom":16},
+{"city":"Fort Meyers","college":"Florida Gulf Coast University","lat":26.463293,"long":-81.772811,"zoom":16},
+{"city":"Boca Raton","college":"Florida Atlantic University","lat":26.37092,"long":-80.102879,"zoom":16},
+{"city":"Tallahassee","college":"Florida A&M University","lat":30.418857,"long":-84.283816,"zoom":16},
+{"city":"Miami","college":"Florida International University","lat":25.754977,"long":-80.372935,"zoom":16},
+{"city":"DeLand","college":"Stetson University","lat":29.034967,"long":-81.302627,"zoom":16},
+{"city":"Daytona Beach","college":"Daytona State College","lat":29.012366,"long":-81.243168,"zoom":16},
+{"city":"Daytona Beach","college":"Embry-Riddle Aeronautical University","lat":29.18863,"long":-81.049095,"zoom":16}];
